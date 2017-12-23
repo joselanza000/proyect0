@@ -1,0 +1,12 @@
+$body-bg :  #eee;
+$canvas-bg: #000;
+$font1 : Arial, sans-serif;
+
+body{
+  background-color: $body-bg;
+  font-family:$font1;
+  margin:0;
+  padding:0;
+  overflow:hidden;
+}
+canvas{background-color: $canvas-bg;}
